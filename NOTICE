@@ -1,0 +1,16 @@
+Aether Engine
+https://github.com/djburkhart/LevelEditor
+
+This repository is a fork of Sony World Wide Studios LevelEditor:
+https://github.com/SonyWWS/LevelEditor
+
+Original work:
+Copyright 2014-2017 Sony Computer Entertainment America LLC
+Licensed under the Apache License, Version 2.0.
+See License.txt.
+
+This tree also vendors a subset of ATF (https://github.com/SonyWWS/ATF),
+which carries the same Apache 2.0 license and Sony copyright.
+
+Aether Engine modifications (Resolvora LLC) will be marked in the files that change.
+Sony and PlayStation names are used only to describe origin, per Apache License section 6.
